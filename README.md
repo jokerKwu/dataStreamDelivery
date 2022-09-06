@@ -1,0 +1,2 @@
+# dataStreamDelivery
+firehose to openSearch
